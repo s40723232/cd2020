@@ -1,59 +1,160 @@
-<h1>WEEK</h1>
-<p><a href="https://s40723232.github.io/cd2020/content/WEEK1~5.html">WEEK1~5</a></p>
-<h2>WEEK1~5</h2>
-<h4>WEEK1</h4>
-<p>建立自己的倉儲</p>
-<p>1.在GITHUB上新增倉儲cd2020</p>
-<p>2.git clone到自己的隨身碟</p>
-<p>3.在黑窗打<span>git submodule add https://github.com/mdecourse/cmsimde.git</span></p>
-<p>4.就可以開啟進態網頁 開使編輯</p>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/MNscqVsYZmo" width="560"></iframe></p>
-<p></p>
-<h4>WEEK2</h4>
-<p>更新PYTHON到2.8.3</p>
-<p>1.先在cd2020裡新增data</p>
-<p>2.進去再新增py283 protablegit與wscite432</p>
-<p>3.<span>進入官網打PYTHON2.8.3下載下來</span></p>
-<p><span>4.不要點PIP按NEXT<br/></span></p>
-<p><span>5.好了之後解壓縮到CD2020<br/></span></p>
-<p><span>6.在裡面先用好這三個資料夾<br/></span></p>
-<p><span>7.檔案放進去解壓縮<br/></span></p>
-<p><span>8.在外面也用好STAR跟STOP<br/></span></p>
-<p><span>9.把程式打進去改檔名<br/></span></p>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/dxR4ZstW3eE" width="560"></iframe></p>
-<h4>WEEK3</h4>
-<p>亂數分組程式-乙班</p>
-<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">import random
-groupList=[['40723201','40723202','40723203','40723204','40723205','40723206','40723207','40723208','40723209','40723210','40723211','40723212','40723213','40723214','40723215','40723216','40723217','40723218','40723219','40723220','40723221','40723222''40723223','40723224','40723225','40723226','40723227','40723228','40723229','40723230','40723231','40723232','40723233','40723234','40723235','40723236','40723237','40723238','40723239','40723240','40723241','40723242','40723243','40723244','40723245','40723246','40723247','40723248','40723249','40723250','40723251','40723252','40723253','40723254','40723255']]
-#分組參數
+<!DOCTYPE html><html>
+        <head>
+        <title>CMSiMDE</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700,900" rel="stylesheet">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/icomoon/style.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/bootstrap.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/magnific-popup.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/jquery-ui.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/bootstrap-datepicker.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/flaticon/font/flaticon.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/aos.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/style.css">
+        <link rel="shortcut icon" href="./../cmsimde/static/favicons.png">
+        
+        <style type='text/css'>
+            .site-section {
+            background-color: #FFFF;
+            padding: 40px 40px;
+            }
+            body > div > div.dropdown.open {
+                display: block;
+            }
+        </style>
+    
+        <!-- <script src="./../cmsimde/static/jquery.js"></script> -->
+        <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
+        <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script>
+        <link rel="stylesheet" href="./../cmsimde/static/tipuesearch/css/normalize.min.css">
+        <script src="./../cmsimde/static/tipuesearch/tipuesearch_set.js"></script>
+        <script src="tipuesearch_content.js"></script>
+        <link rel="stylesheet" href="./../cmsimde/static/tipuesearch/css/tipuesearch.css">
+        <script src="./../cmsimde/static/tipuesearch/tipuesearch.js"></script>
+        <script>
+            /* original tipuesearch
+            $(document).ready(function() {
+                 $('#tipue_search_input').tipuesearch();
+            });
+            */
+            // customed doSearch
+            function doSearch() {
+                $('#tipue_search_input').tipuesearch({
+                    newWindow: true, 
+                    minimumLength: 2,
+                    wholeWords: false, // for search 中文
+                });
+            }
+            $(document).ready(doSearch);
+        </script>
+        
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shCore.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJScript.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJava.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPython.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushSql.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushHaxe.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushXml.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPhp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushLua.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCpp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCss.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCSharp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushDart.js"></script>
+<link type="text/css" rel="stylesheet" href="./../cmsimde/static/syntaxhighlighter/css/shCoreDefault.css"/>
+<script type="text/javascript">SyntaxHighlighter.all();</script>
 
-group=grouplist[0]
-random.shffle(group)
-#將數列隨機排列
-print(group)
-#複製數列
-print(group[0:10])
-#抽取數列(1~10)
-print(group[11:20])
-#抽取數列(11~20)
-print(group[21:30])
-#抽取數列(21~30)
-print(group[31:40])
-#抽取數列(31~50)
-print(group[41:50])
-#抽取數列(41~50)
-print(group[51:55])
-#抽取數列(51~55)</pre>
-<h4>WEEK4</h4>
-<p>topic 0 11~17頁翻譯</p>
-<p><a href="https://github.com/s40723232/cd2020/tree/master/downloads">https://github.com/s40723232/cd2020/tree/master/downloads</a></p><h1>Assignment</h1>
-<p></p>
-<h2>Assignment1</h2>
-<p>PDF<br/><img alt="" height="670" src="/images/987987.jpg" width="471"/></p>
-<p><img alt="" height="663" src="/images/321321.jpg" width="473"/></p>
-<p>(電腦沒WORD所以先打在這邊)</p>
-<p>心得 : 這次的祖耀工作是寫出亂數分組程式，經過這次的學習有比較聊解PYTHON的程式寫法，不過還只是簡單的。</p>
-<h1>Topic</h1>
+<!-- 啟用 LaTeX equations 編輯 -->
+<script src="https://scrum-3.github.io/web/math/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>
+<script type="text/javascript">
+init_mathjax = function() {
+    if (window.MathJax) {
+        // MathJax loaded
+        MathJax.Hub.Config({
+            tex2jax: {
+                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+            },
+            displayAlign: 'left', // Change this to 'center' to center equations.
+            "HTML-CSS": {
+                styles: {'.MathJax_Display': {"margin": 0}}
+            }
+        });
+        MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
+    }
+}
+init_mathjax();
+</script>
+
+<!-- 暫時不用
+<script src="./../cmsimde/static/fengari-web.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/Cango-13v08-min.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/CangoAxes-4v01-min.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/gearUtils-05.js"></script>
+-->
+<!-- for Brython 暫時不用
+<script src="https://scrum-3.github.io/web/brython/brython.js"></script>
+<script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+-->
+<style>
+img.add_border {
+    border: 3px solid blue;
+}
+</style>
+
+</head>
+<body>
+<div class='container'><nav>
+        
+    <div class="site-wrap">
+
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+    
+            <header class="site-navbar py-4 bg-white" role="banner">
+              <div class="container-fluid">
+                <div class="row align-items-center">
+                <h1>40723232 網際內容管理系統</h1>
+                <div class="pl-4">
+                    <form>
+                    <input type="text" placeholder="Search" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" required>
+                    </form>
+                </div>
+                  <!-- <div class="col-11 col-xl-2">
+                    <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">40723232 網際內容管理系統</a></h1> 
+                  </div>
+                  -->
+                  <div class="col-12 col-md-10 d-none d-xl-block">
+                    <nav class="site-navigation position-relative text-right" role="navigation">
+    <ul class='site-menu js-clone-nav mr-auto d-none d-lg-block'>
+                        <li class="active has-children"><a href="index.html">Home</a>
+                        <ul class="dropdown">
+                            <li><a href="sitemap.html">Site Map</a></li>
+                            <li><a href="./../reveal/index.html">reveal</a></li>
+                            <li><a href="./../blog/index.html">blog</a></li>
+                        </ul>
+                      </li>
+                     <li class='has-children'><a href='WEEK.html'>WEEK</a><ul class='dropdown'><li><a href='WEEK1~5.html'>WEEK1~5</a></li></ul><li class='has-children'><a href='Assignment.html'>Assignment</a><ul class='dropdown'><li><a href='Assignment1.html'>Assignment1</a></li></ul><li><a href='Topic.html'>Topic</a></li>
+                      </ul>
+                </nav>
+              </div>
+              <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
+              </div>
+
+            </div>
+          </div>
+          
+        </header>
+    <div id="tipue_search_content">Assignment1 << <a href='Assignment1.html'>Previous</a> <br /><h1>Topic</h1>
 <p><span data-contrast="none"><span data-wac-het="1">1.2.2</span></span><span data-contrast="none"><span data-wac-het="1">確定協作產品設計流程</span></span><span data-ccp-props="{}" data-wac-het="1"> </span></p>
 <p><span data-contrast="none"><span data-wac-het="1">下一步是將每個公司的設計流程整合到協作中，通過“馬賽克方法”進行主動設計過程。我們首先收集了部分設計公司中特定項目的流程。這很容易做到，因為公司的設計師描述了在相同項目中分享的經驗，從而使各個局部設計過程重疊並相互補充彼此。之後通過比較和合併部分過程合併過程元素。從工業設計中提取的部分過程簽名人的採訪數據提供了有關工業設計活動的豐富信息，</span></span><span data-contrast="none"><span data-wac-het="1">包括與工程設計師的互動行為，但信息較少純工程設計活動。工程界也是如此</span></span><span data-contrast="none"><span data-wac-het="1">設計。將公司的工業設計師的部分流程合併到了</span></span><span data-contrast="none"><span data-wac-het="1">圍繞工業設計活動重建設計流程。在同一時間，我們利用工程設計師提供的信息來補充</span></span><span data-contrast="none"><span data-wac-het="1">並從工程設計方面加強設計活動。我們圍繞同一工程設計活動重新構建設計流程辦法。最終將這兩個設計過程合併為一個協作產品</span></span><span data-contrast="none"><span data-wac-het="1">設計過程。在鑲嵌方法中，將交叉檢查的局部pro-</span></span><span data-contrast="none"><span data-wac-het="1">cesses有助於提高可靠性和通用性。這明顯減少了構建信息不完整的流程的可能性</span></span><span data-contrast="none"><span data-wac-het="1">通過抵消彼此的信息。“馬賽克方法”減少了構建錯誤過程的可能性。</span></span><span data-ccp-props="{}" data-wac-het="1"> </span></p>
 <p><span data-ccp-props="{}" data-wac-het="1"> </span><span data-contrast="none"><span data-wac-het="1">在比較部分設計過程時，我們發現了產品計劃團隊參與了一些設計過程元素。因此，將其角色。這意味著產品規劃團隊在協作中扮演了一定的角色，工業設計和工程設計的口頭設計項目。標準化一些表示相同任務或事件的術語。但是他們的編碼方式不同，因為受訪者使用它們的方式略有不同-彼此之間例如，發現會議已編碼在部分設計過程中作為“產品計劃會議”和“產品”發展會議”。因此將它們統一為“產品計劃會議。’也有人稱工業設計結果不同，例如</span></span><span data-contrast="none"><span data-wac-het="1">“模型”，“設計模型”或“模型製造”。將它們統一為</span></span><span data-contrast="none"><span data-wac-het="1">“設計模型”。還標準化了“模型評估活動”，“樣機選擇”作為“樣機評估活動”。這項工作是通過交叉</span></span><span data-contrast="none"><span data-wac-het="1">在評估含義的同時檢查每個公司的面試數據，並具體術語的上下文。其實，設計師似乎理解每個公司記錄的設計流程，其中標準術語是定義，但不是特別意識到這一點。看來他們無視了</span></span><span data-contrast="none"><span data-wac-het="1">標準化流程，因為市場形勢迫使他們轉向</span></span><span data-contrast="none"><span data-wac-het="1">快速移動。語言差異也是造成術語差異的可能原因。</span></span><span data-contrast="none"><span data-wac-het="1">在產品設計區中，本機單詞和借用單詞混合使用</span></span><span data-contrast="none"><span data-wac-het="1">在韓國。例如，我們同時使用借用單詞和本機單詞</span></span><span data-contrast="none"><span data-wac-het="1">滿足英語中的“設計”。化和地理位置的差異</span></span><span data-contrast="none"><span data-wac-het="1">兩支球隊可能會造成任期差異。除F公司外，</span></span><span data-contrast="none"><span data-wac-het="1">兩個部門位於不同的物理空間，至少在不同的位置</span></span><span data-contrast="none"><span data-wac-het="1">地板。</span></span><span data-ccp-props="{}" data-wac-het="1"> </span></p>
@@ -93,4 +194,46 @@ print(group[51:55])
 <p><span data-ccp-props="{}" data-wac-het="1"> </span><span data-contrast="auto"><span data-wac-het="1">通過比較每種類型過程的使用頻率，我們發現</span></span><span data-contrast="auto"><span data-wac-het="1">3是最常用的，而Type 4是最少的。使用類型2</span></span><span data-contrast="auto"><span data-wac-het="1">比類型1更頻繁。除公司B以外，類型3最常見。</span></span><span data-contrast="auto"><span data-wac-het="1">類似於大多數受訪者所說的公司標準。 Consid-</span></span><span data-contrast="auto"><span data-wac-het="1">提出重新設計比新設計更頻繁發生的論點</span></span><span data-contrast="auto"><span data-wac-het="1">（Roozenburg＆Eekels，1995）和成功的徹底創新發生</span></span><span data-ccp-props="{}" data-wac-het="1"> </span></p>
 <p><span data-contrast="auto"><span data-wac-het="1">也許每5年10年一次（Norman＆Verganti，2014年），這是一個原因-</span></span><span data-contrast="auto"><span data-wac-het="1">能夠找到。由於類型4是由個人自發發起的，因此不是</span></span><span data-contrast="auto"><span data-wac-het="1">一套官方的，標準的程序，這種情況很少見。</span></span><span data-ccp-props="{}" data-wac-het="1"> </span></p>
 <p><span data-ccp-props="{}" data-wac-het="1"> </span><span data-contrast="auto"><span data-wac-het="1">每種類型的設計過程的詳細特徵以及相關的</span></span><span data-contrast="auto"><span data-wac-het="1">上下文將在以下各節中介紹。</span></span><span data-ccp-props="{}" data-wac-het="1"> </span></p>
-<p><span data-ccp-props="{}" data-wac-het="1"></span></p>
+<p><span data-ccp-props="{}" data-wac-het="1"></span></p><br />Assignment1 << <a href='Assignment1.html'>Previous</a> </div>
+        
+    <!-- footer -->
+      <div class="container">
+        <div class="row pt-3 mx-auto">
+            <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+        </div>
+      </div>
+    <!-- for footer -->
+    
+        </div> <!-- for site wrap -->
+            <!-- <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script> -->
+            <script src="../cmsimde/static/chimper/js/jquery-migrate-3.0.1.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery-ui.js"></script>
+            <script src="../cmsimde/static/chimper/js/popper.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/owl.carousel.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.stellar.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.countdown.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.magnific-popup.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap-datepicker.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/aos.js"></script>
+            <!--
+            <script src="../cmsimde/static/chimper/js/typed.js"></script>
+                    <script>
+                    var typed = new Typed('.typed-words', {
+                    strings: ["Web Apps"," WordPress"," Mobile Apps"],
+                    typeSpeed: 80,
+                    backSpeed: 80,
+                    backDelay: 4000,
+                    startDelay: 1000,
+                    loop: true,
+                    showCursor: true
+                    });
+                    </script>
+            -->
+            <script src="../cmsimde/static/chimper/js/main.js"></script>
+        </body></html>
+        
