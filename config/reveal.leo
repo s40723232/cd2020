@@ -58,7 +58,7 @@
 <v t="leo.20200624151511.2"><vh>6</vh></v>
 </v>
 <v t="leo.20200624145449.1"><vh>WEEK10~14</vh>
-<v t="leo.20200624145449.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20200624145449.2"><vh>WEEK10~14</vh></v>
 </v>
 <v t="leo.20200624151636.1"><vh>1</vh>
 <v t="leo.20200624151636.2"><vh>1</vh></v>
@@ -153,7 +153,7 @@ Created by [40723232](https://s40723232.github.io/cd2020/content/index.html)
 <t tx="leo.20180902120523.12"># WEEK1~5
 
 ### WEEK1~5
-網址(https://s40723232.github.io/cd2020/content/WEEK1~5.html)
+[網址](https://s40723232.github.io/cd2020/content/WEEK1~5.html)
 
 
 </t>
@@ -415,8 +415,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624145443.2"># WEEK6~9
 
-###WEEK6~9
-網址(https://s40723232.github.io/cd2020/content/WEEK6~9.html)</t>
+### WEEK6~9
+[網址](https://s40723232.github.io/cd2020/content/WEEK6~9.html)</t>
 <t tx="leo.20200624145449.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -426,14 +426,9 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200624145449.2"># 投影片快捷鍵
+<t tx="leo.20200624145449.2"># WEEK10~14
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+[網址](https://s40723232.github.io/cd2020/content/WEEK10~14.html)
 
 </t>
 <t tx="leo.20200624145451.1">&lt;section data-markdown&gt;
@@ -447,8 +442,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624145451.2"># WEEK15~17
 
-###WEEK15~17
-網址(https://s40723232.github.io/cd2020/content/WEEK15~17.html)</t>
+### WEEK15~17
+[網址](https://s40723232.github.io/cd2020/content/WEEK15~17.html)</t>
 <t tx="leo.20200624145553.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -479,7 +474,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624145843.2"># 建立自己的倉儲
 
-網址(https://www.youtube.com/watch?v=MNscqVsYZmo&amp;feature=emb_title)
+[網址](https://www.youtube.com/watch?v=MNscqVsYZmo&amp;feature=emb_title)
 &lt;iframe width="1903" height="800" src="https://www.youtube.com/embed/MNscqVsYZmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
@@ -494,7 +489,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624150413.2"># 更新PYTHON到2.8.3
 
-網址(https://www.youtube.com/watch?v=dxR4ZstW3eE)
+[網址](https://www.youtube.com/watch?v=dxR4ZstW3eE)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/dxR4ZstW3eE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
@@ -509,7 +504,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624150419.2"># 練習使用Pyslvs
 
-網址(https://www.youtube.com/watch?v=QE7Uelv31co)
+[網址](https://www.youtube.com/watch?v=QE7Uelv31co)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/QE7Uelv31co" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
@@ -524,9 +519,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624150559.2"># topic 0 11~17頁翻譯
 
-Topic(https://s40723232.github.io/cd2020/content/Topic.html)
+[Topic](https://s40723232.github.io/cd2020/content/Topic.html)
 
-DOWNLOADS(https://github.com/s40723232/cd2020/blob/master/downloads/topic%200%2011~17.pdf)</t>
+[DOWNLOADS](https://github.com/s40723232/cd2020/blob/master/downloads/topic%200%2011~17.pdf)</t>
 <t tx="leo.20200624150911.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -538,7 +533,7 @@ DOWNLOADS(https://github.com/s40723232/cd2020/blob/master/downloads/topic%200%20
 </t>
 <t tx="leo.20200624150911.2"># Assignment 1 工作分配與問題討論 (組長直播影片)
 
-網址(https://www.youtube.com/watch?v=r0AABAp474U&amp;feature=emb_title)
+[網址](https://www.youtube.com/watch?v=r0AABAp474U&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/r0AABAp474U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624150913.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -551,7 +546,7 @@ DOWNLOADS(https://github.com/s40723232/cd2020/blob/master/downloads/topic%200%20
 </t>
 <t tx="leo.20200624150913.2"># 上課直播影片
 
-網址(https://www.youtube.com/watch?v=9lW7r4MnVbo)
+[網址](https://www.youtube.com/watch?v=9lW7r4MnVbo)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/9lW7r4MnVbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624150930.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -564,7 +559,7 @@ DOWNLOADS(https://github.com/s40723232/cd2020/blob/master/downloads/topic%200%20
 </t>
 <t tx="leo.20200624150930.2"># 上課直播影片
 
-網址(https://www.youtube.com/watch?v=CNKddHkivns&amp;feature=emb_title)
+[網址](https://www.youtube.com/watch?v=CNKddHkivns&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/CNKddHkivns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624150932.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -577,7 +572,7 @@ DOWNLOADS(https://github.com/s40723232/cd2020/blob/master/downloads/topic%200%20
 </t>
 <t tx="leo.20200624150932.2"># 建立自己的倉儲
 
-網址(https://www.youtube.com/watch?v=MNscqVsYZmo&amp;feature=emb_title)
+[網址](https://www.youtube.com/watch?v=MNscqVsYZmo&amp;feature=emb_title)
 &lt;iframe width="1903" height="800" src="https://www.youtube.com/embed/MNscqVsYZmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
@@ -592,7 +587,7 @@ DOWNLOADS(https://github.com/s40723232/cd2020/blob/master/downloads/topic%200%20
 </t>
 <t tx="leo.20200624150934.2"># V-rep四輪車
 
-網址(https://www.youtube.com/watch?v=UAtemoF7uX8)
+[網址](https://www.youtube.com/watch?v=UAtemoF7uX8)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/UAtemoF7uX8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624151511.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -605,7 +600,7 @@ DOWNLOADS(https://github.com/s40723232/cd2020/blob/master/downloads/topic%200%20
 </t>
 <t tx="leo.20200624151511.2"># Assignment 2 工作分配與問題討論 (組長直播影片)
 
-網址(https://www.youtube.com/watch?v=a69tNWKmC64&amp;feature=emb_title)
+[網址](https://www.youtube.com/watch?v=a69tNWKmC64&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/a69tNWKmC64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624151623.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -618,7 +613,7 @@ DOWNLOADS(https://github.com/s40723232/cd2020/blob/master/downloads/topic%200%20
 </t>
 <t tx="leo.20200624151623.2"># IPv4 Ubuntu對外連線設定操作
 
-網址(https://www.youtube.com/watch?v=qplqam_KLLg)
+[網址](https://www.youtube.com/watch?v=qplqam_KLLg)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/qplqam_KLLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624151625.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -631,7 +626,7 @@ DOWNLOADS(https://github.com/s40723232/cd2020/blob/master/downloads/topic%200%20
 </t>
 <t tx="leo.20200624151625.2"># Remote API連線
 
-網址(https://www.youtube.com/watch?v=G2l_gomjM_c&amp;feature=emb_title)
+[網址](https://www.youtube.com/watch?v=G2l_gomjM_c&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/G2l_gomjM_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624151626.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -646,9 +641,9 @@ DOWNLOADS(https://github.com/s40723232/cd2020/blob/master/downloads/topic%200%20
 
 第13週上課分組第1組:
 
-網站(http://mde.tw/cdbw13-1)
+[網址](http://mde.tw/cdbw13-1)
 
-github(https://github.com/mdecourse/cdbw13-1.git)</t>
+[github](https://github.com/mdecourse/cdbw13-1.git)</t>
 <t tx="leo.20200624151629.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -660,7 +655,7 @@ github(https://github.com/mdecourse/cdbw13-1.git)</t>
 </t>
 <t tx="leo.20200624151629.2"># week13 問題討論 (組長直播影片)
 
-網址(https://www.youtube.com/watch?v=CLbEVpAV7gs)
+[網址](https://www.youtube.com/watch?v=CLbEVpAV7gs)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/CLbEVpAV7gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624151630.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -673,7 +668,7 @@ github(https://github.com/mdecourse/cdbw13-1.git)</t>
 </t>
 <t tx="leo.20200624151630.2"># 在家裡做一次V-rep虛擬主機設置
 
-網址(https://www.youtube.com/watch?v=VQUZAMTafdg)
+[網址](https://www.youtube.com/watch?v=VQUZAMTafdg)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/VQUZAMTafdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624151632.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -686,7 +681,7 @@ github(https://github.com/mdecourse/cdbw13-1.git)</t>
 </t>
 <t tx="leo.20200624151632.2"># V-rep虛擬主機設置
 
-網址(https://www.youtube.com/watch?v=HkGLvv1XArY)
+[網址](https://www.youtube.com/watch?v=HkGLvv1XArY)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/HkGLvv1XArY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624151634.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -699,7 +694,7 @@ github(https://github.com/mdecourse/cdbw13-1.git)</t>
 </t>
 <t tx="leo.20200624151634.2"># week12 問題討論 (組長直播影片)
 
-網址(https://www.youtube.com/watch?v=is_sLTLHV5M&amp;feature=emb_title)
+[網址](https://www.youtube.com/watch?v=is_sLTLHV5M&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/is_sLTLHV5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624151635.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -712,7 +707,7 @@ github(https://github.com/mdecourse/cdbw13-1.git)</t>
 </t>
 <t tx="leo.20200624151635.2"># CMS(因為有些跑很久所以用兩個影片)
 
-網址(https://www.youtube.com/watch?v=zSO5ChP-xfc&amp;feature=emb_title)
+[網址](https://www.youtube.com/watch?v=zSO5ChP-xfc&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/zSO5ChP-xfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624151636.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -725,7 +720,7 @@ github(https://github.com/mdecourse/cdbw13-1.git)</t>
 </t>
 <t tx="leo.20200624151636.2"># CMS
 
-網址(https://www.youtube.com/watch?v=gVSnIhNCNWA&amp;feature=emb_title)
+[網址](https://www.youtube.com/watch?v=gVSnIhNCNWA&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/gVSnIhNCNWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624152102.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -740,9 +735,9 @@ github(https://github.com/mdecourse/cdbw13-1.git)</t>
 
 第14週上課分組第1組:
 
-網址(http://mde.tw/cdbw14-1 )
+[網址](http://mde.tw/cdbw14-1 )
 
-github(https://github.com/mdecourse/cdbw14-1.git)
+[github](https://github.com/mdecourse/cdbw14-1.git)
 
 </t>
 <t tx="leo.20200624152106.1">&lt;section data-markdown&gt;
@@ -756,7 +751,7 @@ github(https://github.com/mdecourse/cdbw14-1.git)
 </t>
 <t tx="leo.20200624152106.2"># week14 問題討論 (組長直播影片)
 
-網址(https://www.youtube.com/watch?v=N6jCSwv2eI0)
+[網址](https://www.youtube.com/watch?v=N6jCSwv2eI0)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/N6jCSwv2eI0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624152509.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -769,7 +764,7 @@ github(https://github.com/mdecourse/cdbw14-1.git)
 </t>
 <t tx="leo.20200624152509.2"># WEEK15 以前做的東西
 
-網址(https://www.youtube.com/watch?v=e9f2qKXIVT8&amp;feature=emb_title)
+[網址](https://www.youtube.com/watch?v=e9f2qKXIVT8&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/e9f2qKXIVT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624152511.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -782,7 +777,7 @@ github(https://github.com/mdecourse/cdbw14-1.git)
 </t>
 <t tx="leo.20200624152511.2"># week14 問題討論 (組長直播影片)
 
-網址(https://www.youtube.com/watch?v=XFSSfO0Tkzo&amp;feature=emb_title)
+[網址](https://www.youtube.com/watch?v=XFSSfO0Tkzo&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/XFSSfO0Tkzo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624152513.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -795,7 +790,7 @@ github(https://github.com/mdecourse/cdbw14-1.git)
 </t>
 <t tx="leo.20200624152513.2"># 6/18上課紀錄1(使用IPV6開啟網站)
 
-網址(https://www.youtube.com/watch?v=3pugfPqs6eA&amp;feature=emb_title)
+[網址](https://www.youtube.com/watch?v=3pugfPqs6eA&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/3pugfPqs6eA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
