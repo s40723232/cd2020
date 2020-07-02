@@ -446,7 +446,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624145449.2">## WEEK10~14
 
-[網址](https://s40723232.github.io/cd2020/content/WEEK10~14.html)
+[影片網址](https://s40723232.github.io/cd2020/content/WEEK10~14.html)
 
 </t>
 <t tx="leo.20200624145451.1">&lt;section data-markdown&gt;
@@ -492,13 +492,13 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624145843.2">## 建立自己的倉儲
 
-1.在GITHUB上新增倉儲cd2020
+#### 1.在GITHUB上新增倉儲cd2020
 
-2.git clone到自己的隨身碟
+#### 2.git clone到自己的隨身碟
 
-3.在黑窗打git submodule add https://github.com/mdecourse/cmsimde.git
+#### 3.在黑窗打git submodule add https://github.com/mdecourse/cmsimde.git
 
-4.就可以開啟進態網頁 開使編輯
+#### 4.就可以開啟進態網頁 開使編輯
 
 </t>
 <t tx="leo.20200624150413.1">&lt;section data-markdown&gt;
@@ -512,23 +512,23 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624150413.2">## 更新PYTHON到2.8.3
 
-1.先在cd2020裡新增data
+#### 1.先在cd2020裡新增data
 
-2.進去再新增py283 protablegit與wscite432
+#### 2.進去再新增py283 protablegit與wscite432
 
-3.進入官網打PYTHON2.8.3下載下來
+#### 3.進入官網打PYTHON2.8.3下載下來
 
-4.不要點PIP按NEXT
+#### 4.不要點PIP按NEXT
 
-5.好了之後解壓縮到CD2020
+#### 5.好了之後解壓縮到CD2020
 
-6.在裡面先用好這三個資料夾
+#### 6.在裡面先用好這三個資料夾
 
-7.檔案放進去解壓縮
+#### 7.檔案放進去解壓縮
 
-8.在外面也用好STAR跟STOP
+#### 8.在外面也用好STAR跟STOP
 
-9.把程式打進去改檔名
+#### 9.把程式打進去改檔名
 
 </t>
 <t tx="leo.20200624150419.1">&lt;section data-markdown&gt;
@@ -571,7 +571,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624150911.2">## Assignment 1 工作分配與問題討論 (組長直播影片)
 
-[網址](https://www.youtube.com/watch?v=r0AABAp474U&amp;feature=emb_title)
+[影片網址](https://www.youtube.com/watch?v=r0AABAp474U&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/r0AABAp474U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624150913.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -584,7 +584,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624150913.2">## 上課直播影片
 
-[網址](https://www.youtube.com/watch?v=9lW7r4MnVbo)
+[影片網址](https://www.youtube.com/watch?v=9lW7r4MnVbo)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/9lW7r4MnVbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624150930.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -597,7 +597,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624150930.2">## 上課直播影片
 
-[網址](https://www.youtube.com/watch?v=CNKddHkivns&amp;feature=emb_title)
+[影片網址](https://www.youtube.com/watch?v=CNKddHkivns&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/CNKddHkivns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624150934.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -610,15 +610,15 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624150934.2">## V-rep四輪車
 
-1.先劃出四輪車
+#### 1.先劃出四輪車
 
-2.輪子、驅動軸、車身分支要用好
+#### 2.輪子、驅動軸、車身分支要用好
 
-3.把前右輪名子改成right_motor 左輪改成left_motor
+#### 3.把前右輪名子改成right_motor 左輪改成left_motor
 
-4.匯入程式
+#### 4.匯入程式
 
-5.完成</t>
+#### 5.完成</t>
 <t tx="leo.20200624151511.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -630,7 +630,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624151511.2">## Assignment 2 工作分配與問題討論 (組長直播影片)
 
-[網址](https://www.youtube.com/watch?v=a69tNWKmC64&amp;feature=emb_title)
+[影片網址](https://www.youtube.com/watch?v=a69tNWKmC64&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/a69tNWKmC64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624151623.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -643,14 +643,37 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624151623.2">## IPv4 Ubuntu對外連線設定操作
 
-1.新增整體系統的埠號     2.主機網路改NAT NETWORK
-3.啟動    4.密碼 kmol2020
-5.開啟lxtermial    6.ifconfig &gt; sudo apt install net-tools
-7.密碼 kmol2020    8.cd cd2020pj1 &gt; git pull
-9.sudo vi wsgi.py &gt; 按i編輯    10.host改成10.0.2.4
-11.儲存後 &gt; leo    12.Nav裡搜尋allowExt
-13.新增ttt檔    14.進入TMP &gt; sudo vi oauth_scrum.txt
-15.輸入 python3 wsgi.py    16.完成
+#### 1.新增整體系統的埠號     
+
+#### 2.主機網路改NAT NETWORK
+
+#### 3.啟動    
+
+#### 4.密碼 kmol2020
+
+#### 5.開啟lxtermial    
+
+#### 6.ifconfig &gt; sudo apt install net-tools
+
+#### 7.密碼 kmol2020    
+
+#### 8.cd cd2020pj1 &gt; git pull
+
+#### 9.sudo vi wsgi.py &gt; 按i編輯    
+
+#### 10.host改成10.0.2.4
+
+#### 11.儲存後 &gt; leo    
+
+#### 12.Nav裡搜尋allowExt
+
+#### 13.新增ttt檔    
+
+#### 14.進入TMP &gt; sudo vi oauth_scrum.txt
+
+#### 15.輸入 python3 wsgi.py    
+
+#### 16.完成
 
 </t>
 <t tx="leo.20200624151625.1">&lt;section data-markdown&gt;
@@ -664,13 +687,19 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624151625.2">## Remote API連線
 
-1.下載Xming與老師的控制程式
-2.新增3個虛擬主機，NAT網路埠號
-3.我嘗試用PUTTY開啟V-REP但失敗了
-4.所以我用XMING開
-5.步驟跟之前開V-REP的方式一樣
-6.開起XLaunch.exe 都按下一步
-7.好了之後開起老師的控制程式 car_model.py &gt; GO</t>
+#### 1.下載Xming與老師的控制程式
+
+#### 2.新增3個虛擬主機，NAT網路埠號
+
+#### 3.我嘗試用PUTTY開啟V-REP但失敗了
+
+#### 4.所以我用XMING開
+
+#### 5.步驟跟之前開V-REP的方式一樣
+
+#### 6.開起XLaunch.exe 都按下一步
+
+#### 7.好了之後開起老師的控制程式 car_model.py &gt; GO</t>
 <t tx="leo.20200624151626.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -698,7 +727,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624151629.2">## week13 問題討論 (組長直播影片)
 
-[網址](https://www.youtube.com/watch?v=CLbEVpAV7gs)
+[影片網址](https://www.youtube.com/watch?v=CLbEVpAV7gs)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/CLbEVpAV7gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624151630.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -711,7 +740,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624151630.2">## 在家裡做一次V-rep虛擬主機設置
 
-[網址](https://www.youtube.com/watch?v=VQUZAMTafdg)
+[影片網址](https://www.youtube.com/watch?v=VQUZAMTafdg)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/VQUZAMTafdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624151632.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -724,16 +753,25 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624151632.2">## V-rep虛擬主機設置
 
-1.下載ubuntu
-2.設置網路HOST-ONLY
-3.開啟
-4.密碼 kmol2020
-5.選Activities 在開啟 LXTermial
-6.輸入xterm&amp;
-7.輸入cd coppeliasim4_rev4
-8.輸入cd CoppeliaSim_Edu_0_0_Ubuntu18_04
-9.輸入./coppeliaSim.sh 開啟V-rep
-10.這樣就完成了 </t>
+#### 1.下載ubuntu
+
+#### 2.設置網路HOST-ONLY
+
+#### 3.開啟
+
+#### 4.密碼 kmol2020
+
+#### 5.選Activities 在開啟 LXTermial
+
+#### 6.輸入xterm&amp;
+
+#### 7.輸入cd coppeliasim4_rev4
+
+#### 8.輸入cd CoppeliaSim_Edu_0_0_Ubuntu18_04
+
+#### 9.輸入./coppeliaSim.sh 開啟V-rep
+
+#### 10.這樣就完成了 </t>
 <t tx="leo.20200624151634.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -745,7 +783,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624151634.2">## week12 問題討論 (組長直播影片)
 
-[網址](https://www.youtube.com/watch?v=is_sLTLHV5M&amp;feature=emb_title)
+[影片網址](https://www.youtube.com/watch?v=is_sLTLHV5M&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/is_sLTLHV5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624151635.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -758,7 +796,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624151635.2">## CMS(因為有些跑很久所以用兩個影片)
 
-[網址](https://www.youtube.com/watch?v=zSO5ChP-xfc&amp;feature=emb_title)
+[影片網址](https://www.youtube.com/watch?v=zSO5ChP-xfc&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/zSO5ChP-xfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624151636.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -771,17 +809,27 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624151636.2">## CMS
 
-1.登錄到您的@gm帳戶
-2.進入https://console.developers.google.com
-3.接受許可並創建Google API項目
-4.啟用Google +域API
-5.在Google + Domain API憑據下，按CONFIGURE CONSENT SCREEN按鈕
-6.選擇內部或外部用戶類型並添加新的應用程序名稱
-7.在“ API和服務”下，進入“憑據”頁面
-8.為Web應用程序創建“ OAuth 2.0客戶端ID”類型的憑據
-9.進入https://localhost:8443
-10.將您的客戶ID和客戶機密保存到oauth_gm.txt中
-(因為有些跑很久所以用兩個影片)</t>
+#### 1.登錄到您的@gm帳戶
+
+#### 2.進入https://console.developers.google.com
+
+#### 3.接受許可並創建Google API項目
+
+#### 4.啟用Google +域API
+
+#### 5.在Google + Domain API憑據下，按CONFIGURE CONSENT SCREEN按鈕
+
+#### 6.選擇內部或外部用戶類型並添加新的應用程序名稱
+
+#### 7.在“ API和服務”下，進入“憑據”頁面
+
+#### 8.為Web應用程序創建“ OAuth 2.0客戶端ID”類型的憑據
+
+#### 9.進入https://localhost:8443
+
+#### 10.將您的客戶ID和客戶機密保存到oauth_gm.txt中
+
+#### (因為有些跑很久所以用兩個影片)</t>
 <t tx="leo.20200624152102.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -811,7 +859,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624152106.2">## week14 問題討論 (組長直播影片)
 
-[網址](https://www.youtube.com/watch?v=N6jCSwv2eI0)
+[影片網址](https://www.youtube.com/watch?v=N6jCSwv2eI0)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/N6jCSwv2eI0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624152509.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -824,7 +872,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624152509.2">## WEEK15 以前做的東西
 
-[網址](https://www.youtube.com/watch?v=e9f2qKXIVT8&amp;feature=emb_title)
+[影片網址](https://www.youtube.com/watch?v=e9f2qKXIVT8&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/e9f2qKXIVT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624152511.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -837,7 +885,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624152511.2">## week14 問題討論 (組長直播影片)
 
-[網址](https://www.youtube.com/watch?v=XFSSfO0Tkzo&amp;feature=emb_title)
+[影片網址](https://www.youtube.com/watch?v=XFSSfO0Tkzo&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/XFSSfO0Tkzo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624152513.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -850,7 +898,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624152513.2">## 6/18上課紀錄1(使用IPV6開啟網站)
 
-[網址](https://www.youtube.com/watch?v=3pugfPqs6eA&amp;feature=emb_title)
+[影片網址](https://www.youtube.com/watch?v=3pugfPqs6eA&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/3pugfPqs6eA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200701212512.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -861,7 +909,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701212512.2">[網址](https://www.youtube.com/watch?v=MNscqVsYZmo&amp;feature=emb_title)
+<t tx="leo.20200701212512.2">[影片網址](https://www.youtube.com/watch?v=MNscqVsYZmo&amp;feature=emb_title)
 &lt;iframe width="1903" height="800" src="https://www.youtube.com/embed/MNscqVsYZmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
@@ -874,7 +922,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701212554.2">[網址](https://www.youtube.com/watch?v=dxR4ZstW3eE)
+<t tx="leo.20200701212554.2">[影片網址](https://www.youtube.com/watch?v=dxR4ZstW3eE)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/dxR4ZstW3eE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
@@ -887,7 +935,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701212724.2">[網址](https://www.youtube.com/watch?v=UAtemoF7uX8)
+<t tx="leo.20200701212724.2">[影片網址](https://www.youtube.com/watch?v=UAtemoF7uX8)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/UAtemoF7uX8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200701212929.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -900,7 +948,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200701212929.2">## CMS
 
-[網址](https://www.youtube.com/watch?v=gVSnIhNCNWA&amp;feature=emb_title)
+[影片網址](https://www.youtube.com/watch?v=gVSnIhNCNWA&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/gVSnIhNCNWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200701213023.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -911,7 +959,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701213023.2">[網址](https://www.youtube.com/watch?v=HkGLvv1XArY)
+<t tx="leo.20200701213023.2">[影片網址](https://www.youtube.com/watch?v=HkGLvv1XArY)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/HkGLvv1XArY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200701213146.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -922,7 +970,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701213146.2">[網址](https://www.youtube.com/watch?v=G2l_gomjM_c&amp;feature=emb_title)
+<t tx="leo.20200701213146.2">[影片網址](https://www.youtube.com/watch?v=G2l_gomjM_c&amp;feature=emb_title)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/G2l_gomjM_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200701213300.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -933,7 +981,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701213300.2">[網址](https://www.youtube.com/watch?v=qplqam_KLLg)
+<t tx="leo.20200701213300.2">[影片網址](https://www.youtube.com/watch?v=qplqam_KLLg)
 &lt;iframe width="1519" height="586" src="https://www.youtube.com/embed/qplqam_KLLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
